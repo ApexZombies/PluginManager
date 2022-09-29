@@ -13,7 +13,7 @@ commands:
   pluginmanager:
     description: All pluginmanager commands
     permission: pluginmanager.commands
-    aliases: pm
+    aliases: [pm,pman]
 
 permissions:
   pluginmanager.commands:
